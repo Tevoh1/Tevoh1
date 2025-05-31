@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Tevoh1
 - 👀 I’m interested in doing little great things
 - 🌱 I’m currently learning and everything here is strange
-- 💞️ I’m looking to collaborate on ...learning and growing
-- 📫 How to reach me? I don't know yet
-- ⚡ Fun fact: I ❤ ice cream 🍨🍦
+  
+- If I was in a band 🥁, I would play the triangle 📐
 
 <!---
 Tevoh1/Tevoh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
